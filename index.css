@@ -1,0 +1,122 @@
+#nav{
+	background-color: #a9a192
+}
+
+#body{
+	background-color: #b9c0b0;
+}
+
+#landing{
+	background-color: #;
+}
+
+#Greetings {
+	text-align: center;
+	padding-top: 10rem;
+	font-size: 20px;
+	font-family: Oswald;
+
+}
+
+#Photo1{
+	height: 500px;
+	width: 400px;
+	border: 3px solid gray;
+
+}
+
+#AboutMe{
+	text-align: center;
+	background-color: #;
+
+}
+
+#projects{
+	align-content: center;
+}
+
+#project1{
+	background-color: gray;
+}
+
+#project2{
+	background-color: gray;
+}
+
+#project3{
+	background-color: gray;
+}
+
+#tools{
+	align-content: center;
+}
+
+#html{
+	width: 50px;
+	height: 50px;
+}
+
+#css{
+	width: 50px;
+	height: 50px;
+}
+
+#bootstrap{
+	width: 50px;
+	height: 50px;
+}
+#git{
+	width: 50px;
+	height: 50px;
+}
+#sublime{
+	width: 50px;
+	height: 50px;
+}
+
+#contact-form
+
+* {box-sizing: border-box;}
+
+input[type=text], textarea {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 8px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+input[type=submit] {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#contact{
+	border-radius: 5px;
+    background-color: #e5e0d7;
+    padding: 10px;
+    width: 50%;
+  align-content: center;
+}
+
+#footer{
+	align-content: center;
+	padding-top: 3px;
+	background-color: #a9a192;
+	border-block: 10px;
+}
+
+#linkedin{
+	width: 20px;
+	height: 20px;
+
+}
+
+#IG{
+	width: 20px;
+	height: 20px;
+}
